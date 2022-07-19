@@ -31,18 +31,29 @@ Battery: 4Cells 2600 mAh
 # Working:
 
 IGPU
+
 TouchPad
+
 Wifi
+
 Bluetooth
+
 Sleep
+
 All USB Port
+
 Ethernet
-HDMI and HDMI Audio(Can't adjust volume and have some bug when waked)
-Display Port and Display Port Audio (Can't adjust volume and have some bug when waked)
+
+HDMI and HDMI Audio
+
+Display Port and Display Port Audio
+
 3.5mm audio
-Keyboard Backlight Adjustment
+
+Keyboard 
+
 SD Card Reader
 
-What's not Working:
+# Not Working:
 
 Nvidia GPU
