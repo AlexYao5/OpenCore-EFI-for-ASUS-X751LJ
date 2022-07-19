@@ -1,0 +1,1 @@
+# OpenCore-EFI-for-ASUS-X751LJ
