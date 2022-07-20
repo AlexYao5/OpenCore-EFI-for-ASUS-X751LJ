@@ -1,8 +1,11 @@
 # OpenCore-EFI-for-ASUS-X751LJ
 OpenCore 0.8.2 for ASUS X751LJ booting Mac OS Big Sur
 
+# Notice
+
+
+
 # Notebook Specification:
-Clover EFI config files for ASUS X751LJ booting macOS 10.15 Catalina
 
 Processor: Intel® Core™ i5 5200U
 
@@ -28,32 +31,8 @@ Interface: 1 x COMBO audio jack, 1 x VGA port/Mini D-sub 15-pin for external mon
 
 Battery: 4Cells 2600 mAh
 
-# Working:
-
-IGPU
-
-TouchPad
-
-Wifi
-
-Bluetooth
-
-Sleep
-
-All USB Port
-
-Ethernet
-
-HDMI and HDMI Audio
-
-Display Port and Display Port Audio
-
-3.5mm audio
-
-Keyboard 
-
-SD Card Reader
-
 # Not Working:
 
 Nvidia GPU
+
+
