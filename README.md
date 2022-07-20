@@ -3,7 +3,7 @@ OpenCore 0.8.2 for ASUS X751LJ booting Mac OS Big Sur
 
 # Notice
 
-
+請修改SMBIOS後再使用，可參考[OpenCore網站](https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide)
 
 # Notebook Specification:
 
