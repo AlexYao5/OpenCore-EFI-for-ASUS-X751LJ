@@ -1,11 +1,16 @@
 # OpenCore-EFI-for-ASUS-X751LJ
-OpenCore 0.8.2 for ASUS X751LJ booting Mac OS Big Sur
+
+OpenCore 版本：0.8.2
+
+支援系統：Catalina、Big Sur
+
+模擬機型：MacbookAir8,2
 
 # Notice
 
 請修改SMBIOS後再使用，可參考[OpenCore網站](https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html#how-to-decide)
 
-# Notebook Specification:
+# 詳細配置
 
 Processor: Intel® Core™ i5 5200U
 
@@ -31,7 +36,7 @@ Interface: 1 x COMBO audio jack, 1 x VGA port/Mini D-sub 15-pin for external mon
 
 Battery: 4Cells 2600 mAh
 
-# Not Working:
+# 無法驅動
 
 Nvidia GPU
 
